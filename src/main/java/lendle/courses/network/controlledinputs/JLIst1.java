@@ -60,10 +60,7 @@ public class JLIst1 {
         //////////////////////////////////////////
         frame.add(scrollPane);
         
-        frame.setVisible(true){
-            @Override
-            public Component getListCellRendererComponent(JList list, Object value, int index, boolean isSelected, boolean cellHasFocus) {
-            }
+        frame.setVisible(true);
     }
     
 }
